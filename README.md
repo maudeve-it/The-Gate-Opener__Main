@@ -1,6 +1,5 @@
 ---
-> Piu' sotto, al termine del testo in inglese in questa pagina, trovi la versione in italiano
-
+Piu' sotto, al termine del testo in inglese in questa pagina, trovi la versione in italiano
 ---
 
 # The Gsm Gate Opener
@@ -44,6 +43,8 @@ For project-specific technical details refer to the project repositories.
 20201102: I am still working on theese repositories. Consider them uncomplete until this note is deleted.
 
 ---
+
+
 
 # L'Apricancello GSM
 
