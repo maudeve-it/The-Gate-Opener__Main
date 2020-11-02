@@ -1,5 +1,8 @@
 <i>Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>.
 
+<br>
+<br>
+
 # The Gsm Gate Opener
 
 The "The GSM Gate Opener" repositories contain the source code, schematics, and PCB layouts presented in the youtube playlist: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
@@ -42,7 +45,8 @@ For project-specific technical details refer to the project repositories.
 
 ---
 
-
+<br>
+<br>
 
 # L'Apricancello GSM
 
