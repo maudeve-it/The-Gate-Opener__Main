@@ -1,6 +1,4 @@
----
-Piu' sotto, al termine del testo in inglese in questa pagina, trovi la versione in italiano
----
+<i>Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>.
 
 # The Gsm Gate Opener
 
