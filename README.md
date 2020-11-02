@@ -23,7 +23,7 @@ For project-specific technical details refer to the project repositories.
 
 ---
 
-## Repository del Progetto
+## Project Repositories
 
 [Slides EN-lang] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
