@@ -31,7 +31,9 @@ For project-specific technical details refer to the project repositories.
 
 [Software (multilanguage)] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
-[PCB design] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[PCB design: Main Module] (https://github.com/maudeve-it/PCB_base-module_KiCad)
+
+[PCB design: Display Module] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
 [User Manual] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
 
@@ -74,7 +76,9 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 
 [Software (multilingua)] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
-[progetto PCB] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[progetto PCB: Modulo Principale] (https://github.com/maudeve-it/PCB_base-module_KiCad)
+
+[progetto PCB: Modulo Display] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
 [Manuale Utente] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
 
