@@ -36,6 +36,7 @@ For project-specific technical details refer to the project repositories.
 [User Manual EN] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual-EN)
 
 [User Manual IT] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual-IT)
+
 ---
 
 ## NOTES
