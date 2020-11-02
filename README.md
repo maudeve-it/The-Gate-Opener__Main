@@ -33,10 +33,9 @@ For project-specific technical details refer to the project repositories.
 
 [PCB design] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
-[User Manual EN] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[User Manual EN] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual-EN)
 
-[User Manual IT] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
-
+[User Manual IT] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual-IT)
 ---
 
 ## NOTES
@@ -78,9 +77,9 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 
 [progetto PCB] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
-[Manuale Utente IT] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[Manuale Utente IT] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual-IT)
 
-[Manuale Utente EN] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[Manuale Utente EN] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual-EN)
 
 ---
 
