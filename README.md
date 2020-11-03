@@ -99,7 +99,7 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 
 ---
 
-## NOTES
+## NOTE
 
 20201102: Sto ancora aggiornando le repository. Considerale incomplete finche' non rimuovero' questa nota. 
 
