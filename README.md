@@ -12,10 +12,10 @@
 </tbody>
 </table>
 
+<br>
 
 <i>Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>.
 
-<br>
 <br>
 
 # The Gsm Gate Opener
