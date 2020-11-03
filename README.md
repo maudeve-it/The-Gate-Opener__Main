@@ -2,12 +2,12 @@
 <table class="editorDemoTable">
 <tbody>
 <tr>
-<td>
-<img src="https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png" width="233" height="428">
-</td>
-<td>
-<img src="https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png" width="233" height="428">
-</td>
+  <td>
+    <img src="https://github.com/maudeve-it/The-Gate-Opener__Main/blob/main/case.png" width="201" height="300">
+  </td>
+  <td>
+    <img src="https://github.com/maudeve-it/The-Gate-Opener__Main/blob/main/IMG_4439.png" width="300" height="220">
+  </td>
 </tr>
 </tbody>
 </table>
