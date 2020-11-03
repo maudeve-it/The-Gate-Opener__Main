@@ -40,17 +40,18 @@ For project-specific technical details refer to the project repositories.
 
 ## Project Repositories
 
-[Slides EN-lang] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
-
-[Slides IT-lang] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
-
-[Software (multilanguage)] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[Source code (multilingual)] (https://github.com/maudeve-it/The-Gate-Opener_source-code)
 
 [PCB design: Main Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
 
 [PCB design: Display Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
 
 [User Manual] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
+
+[Slides EN-lang] (https://github.com/maudeve-it/The-Gate-Opener_slides-EN)
+
+[Slides IT-lang] (https://github.com/maudeve-it/The-Gate-Opener_slides-IT)
+
 
 ---
 
@@ -85,17 +86,17 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 
 ## Repository del Progetto
 
-[Slide lingua IT] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
-
-[Slide lingua EN] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
-
-[Software (multilingua)] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[Codice Sorgente (multilingua)] (https://github.com/maudeve-it/The-Gate-Opener_source-code)
 
 [progetto PCB: Modulo Principale] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
 
 [progetto PCB: Modulo Display] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
 
 [Manuale Utente] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
+
+[Slide lingua IT] (https://github.com/maudeve-it/The-Gate-Opener_slides-IT)
+
+[Slide lingua EN] (https://github.com/maudeve-it/The-Gate-Opener_slides-EN)
 
 ---
 
