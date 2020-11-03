@@ -1,6 +1,16 @@
 
+<table class="editorDemoTable">
+<tbody>
+<tr>
+<td>
 <img src="https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png" width="233" height="428">
+</td>
+<td>
 <img src="https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png" width="233" height="428">
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <i>Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>.
