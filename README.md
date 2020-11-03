@@ -1,3 +1,7 @@
+
+<img src="https://github.com/maudeve-it/PCB_base-module_KiCad/blob/main/Base.png" width="633" height="428">
+
+
 <i>Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>.
 
 <br>
@@ -31,9 +35,9 @@ For project-specific technical details refer to the project repositories.
 
 [Software (multilanguage)] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
 
-[PCB design: Main Module] (https://github.com/maudeve-it/PCB_base-module_KiCad)
+[PCB design: Main Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
 
-[PCB design: Display Module] (https://github.com/maudeve-it/The-Gate-Opener__main-reference)
+[PCB design: Display Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
 
 [User Manual] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
 
