@@ -21,12 +21,11 @@ _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**
 
 # The Gsm Gate Opener
 
-The "The GSM Gate Opener" repositories contain the source code, schematics, and PCB layouts presented in the youtube playlist: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
-There is also a repository containing slides used in making youtube videos.
+The "The GSM Gate Opener" repositories contain the source code, schematics, PCB layouts and also slides shown in the youtube playlist: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
 
 This respository will contain commentary, notes, and errata.
 
-For project-specific technical details refer to the project repositories.
+For project-specific technical details refer to the project repositories below listed.
 
 ---
 > The software, schemes and PCB designs in this set of repositories are provided just for 
@@ -46,6 +45,8 @@ For project-specific technical details refer to the project repositories.
 [PCB design: Main Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
 
 [PCB design: Display Module] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
+
+[Source Code of SIM800L testing sketch] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
 
 [User Manual] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
 
@@ -67,12 +68,11 @@ For project-specific technical details refer to the project repositories.
 
 # L'Apricancello GSM
 
-Le repository "The GSM Gate Opener" contengono i sorgenti, gli schemi ed i layout PCB presentati nella playlist youtube: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
-Troverete anche una repository contenente le slide usate video della playlist 
+Le repository "The GSM Gate Opener" contengono i sorgenti, gli schemi, i layout PCB e le slide presentate nella playlist youtube: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
 
 QUesta repository contiene, oltre a questa presentazione, eventuali commenti, note e errata-corrige.
 
-Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository del progetto.
+Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository del progetto elencate sotto.
 
 ---
 > Il software e gli schemi di progetto come i layout PCB in questa serie di repository 
@@ -92,6 +92,8 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 [progetto PCB: Modulo Principale] (https://github.com/maudeve-it/The-Gate-Opener_PCB_base-module_KiCad)
 
 [progetto PCB: Modulo Display] (https://github.com/maudeve-it/The-Gate-Opener_PCB_display-module_KiCad)
+
+[Codice Sorgente sketch per test SIM800L] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
 
 [Manuale Utente] (https://github.com/maudeve-it/The-Gate-Opener_User-Manual)
 
