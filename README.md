@@ -111,7 +111,7 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 
 ## Repository di test
 
-In queste repositoano gli sketch utilizzati in alcuni video della playist YouTube.
+In queste repository sono archiviati gli sketch usati in alcuni video della playist YouTube.
 
 [Sketch per i test sull'uso di millis()] (https://github.com/maudeve-it/The-Gate-Opener_MILLIS-testing-code)
 
