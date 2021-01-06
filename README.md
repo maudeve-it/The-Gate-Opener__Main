@@ -21,7 +21,7 @@ _**Piu' sotto, al termine della lingua inglese trovi il testo in italiano </i>**
 
 # The Gsm Gate Opener
 
-The "The GSM Gate Opener" repositories contain the source code, schematics, PCB layouts and also slides shown in the youtube playlist: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
+The "The GSM Gate Opener" repositories contain the source code, schematics, PCB layouts and also slides shown in the YouTube playlist: https://www.youtube.com/playlist?list=PL6Fwy7aR3zSnGOjOkljFuyvuQFsbg0n9Z.
 
 This respository will contain commentary, notes, and errata.
 
@@ -54,12 +54,20 @@ For project-specific technical details refer to the project repositories below l
 
 [Slides IT-lang] (https://github.com/maudeve-it/The-Gate-Opener_slides-IT)
 
+## Test Repositories
+
+Software in these repositories refers to tests performed in some video in YouTube playlist.
+
+[Test sketch about millis() usage] (https://github.com/maudeve-it/The-Gate-Opener_MILLIS-testing-code)
+
+[Test sketch about SIM800L usage] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
+
 
 ---
 
 ## NOTES
 
-20201102: I am still working on theese repositories. Consider them uncomplete until this note is deleted.
+20201102: I am still working on these repositories. Consider them uncomplete until this note is deleted.
 
 ---
 
@@ -100,6 +108,14 @@ Per i dettagli tecnici del progetto occorre riferirsi alle specifiche repository
 [Slide lingua IT] (https://github.com/maudeve-it/The-Gate-Opener_slides-IT)
 
 [Slide lingua EN] (https://github.com/maudeve-it/The-Gate-Opener_slides-EN)
+
+## Repository di test
+
+In queste repositoano gli sketch utilizzati in alcuni video della playist YouTube.
+
+[Sketch per i test sull'uso di millis()] (https://github.com/maudeve-it/The-Gate-Opener_MILLIS-testing-code)
+
+[Sketch per i test sull'uso di SIM800L] (https://github.com/maudeve-it/The-Gate-Opener_SIM800L-testing-code)
 
 ---
 
